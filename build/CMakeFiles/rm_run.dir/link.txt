@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/rm_run.dir/main.cpp.o -o rm_run 
