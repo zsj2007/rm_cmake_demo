@@ -1,0 +1,3 @@
+/home/shang-beihang/rm_cmake_demo/build/CMakeFiles/rm_run.dir
+/home/shang-beihang/rm_cmake_demo/build/CMakeFiles/edit_cache.dir
+/home/shang-beihang/rm_cmake_demo/build/CMakeFiles/rebuild_cache.dir
